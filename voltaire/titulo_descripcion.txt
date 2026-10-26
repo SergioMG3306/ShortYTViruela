@@ -1,0 +1,37 @@
+TÍTULO
+¿Sabías que Voltaire se hizo rico gracias a un fallo matemático en la lotería? #shorts
+
+(alternativo: Voltaire encontró el fallo de la lotería… y se hizo rico #shorts)
+
+DESCRIPCIÓN
+París, 1729. Los bonos de la ciudad habían perdido mucho valor y el gobierno de Luis XV, con el controlador general de Finanzas Le Peletier des Forts, creó una lotería para arreglarlo: solo podían jugar los dueños de esos bonos.
+
+La regla tenía un fallo. Cada billete costaba la milésima parte del valor del bono: un bono de 1.000 libras daba un billete de 1 libra, y uno de 100.000 libras, un billete de 100. Pero todos los billetes tenían la misma probabilidad de ganar, así que con lo que costaba un billete grande se podían comprar cien pequeños. Además, cada mes el Estado añadía 500.000 libras a los premios.
+
+El matemático Charles-Marie de La Condamine hizo las cuentas: todos los billetes juntos costaban menos que lo que se repartía en premios. Quien los comprara todos ganaba seguro. Voltaire se unió a él, reunieron a un grupo de socios, compraron bonos pequeños y baratos y se quedaron con casi todos los billetes, sorteo tras sorteo. Cuando el gobierno se dio cuenta, los llevó a juicio, pero no habían incumplido ninguna regla y se quedaron con el dinero. La lotería se cerró poco después.
+
+Se calcula que Voltaire ganó alrededor de medio millón de libras. Con esa fortuna, y con buenas inversiones, nunca más tuvo que preocuparse por el dinero.
+
+Nota: no fue un engaño, sino un uso legal de las propias reglas. Las cifras de lo que ganaron varían según las fuentes (de medio millón de libras a más de un millón para Voltaire); usamos la estimación más citada. El precio del billete como milésima parte del bono procede de fuentes divulgativas coincidentes (BBC Mundo, Smithsonian), no de un documento original.
+
+Fuentes:
+· Roger Pearson, «Voltaire's Luck», Lapham's Quarterly
+· «Voltaire: Enlightenment Philosopher and Lottery Scammer», Smithsonian Magazine
+· «Cómo Voltaire y sus amigos aprovecharon los defectos de la primera lotería de Francia para ganar una fortuna», BBC Mundo
+· «The Enlightenment Guide to Winning the Lottery», Damn Interesting
+· «Charles Marie de La Condamine», Wikipedia
+· «Administration générale des loteries» y «Michel Robert Le Peletier des Forts», Wikipedia en francés
+· «Liste des lots de la loterie tirée à Paris… le vendredi 8 avril 1729», Gallica (Biblioteca Nacional de Francia)
+· Adam Kucharski, «Probability and persistence»
+
+Imágenes:
+· Taller de Nicolas de Largillière, «Retrato de Voltaire» (h. 1724-1725), Musée Carnavalet, París. Wikimedia Commons [VERIFICAR LICENCIA; los fondos de Paris Musées suelen ser CC0].
+· Retrato grabado de Charles-Marie de La Condamine. Wikimedia Commons [AÑADIR AUTOR Y LICENCIA].
+· Plan de Turgot (Louis Bretez, 1739). Wikimedia Commons, dominio público.
+· Voltaire en su mesa de trabajo, grabado. Wikimedia Commons [AÑADIR AUTOR Y LICENCIA].
+· Resto: ilustraciones y animaciones propias. Tipografías Playfair Display y Libre Caslon (licencia SIL OFL). Narración con voz sintética.
+
+#Historia #Voltaire #Matemáticas #Lotería #Probabilidad #CuriosidadesHistóricas #SabíasQue
+
+ETIQUETAS
+Voltaire, lotería de 1729, Voltaire lotería, La Condamine, Charles-Marie de La Condamine, fallo de la lotería, matemáticas y lotería, probabilidad, valor esperado, Le Peletier des Forts, París 1729, historia de Francia, Ilustración, filósofos, curiosidades de la historia, historia de las matemáticas, sabías que, historia en 16 bits, shorts de historia
